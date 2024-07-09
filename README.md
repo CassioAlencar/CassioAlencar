@@ -1,19 +1,9 @@
+Hello, world! 👋 I'm Cássio Alencar. 😄 Pronouns: He/Him
+💻 Interests: Front-end, web development, interface design.
+📚 Hobbies: Reading (especially fantasy and sci-fi), movies and series (anything with a good story!).
+🌱 Currently learning: React, TypeScript and improving my CSS and HTML skills.
+⚡ Fun fact: I'm a big fan of board games and card games!
 
-Olá, mundo! 👋 Eu sou o Cássio Alencar.
-😄 Pronomes: Ele/Dele
+A little bit more about me: I'm 24 years old and passionate about technology and the web. I love creating beautiful and intuitive interfaces that provide a great user experience. I'm always looking to learn new things and challenge myself.
 
-💻 Interesses: Front-end, desenvolvimento web, design de interfaces.
-
-📚 Hobbies: Leitura (principalmente fantasia e ficção científica), filmes e séries (qualquer coisa com uma boa história!).
-
-🌱 Atualmente aprendendo: React, TypeScript e aprimorando minhas habilidades em CSS e HTML.
-
-⚡ Fato divertido: Sou um grande fã de jogos de tabuleiro e Card games!
-
-Um pouco mais sobre mim:
-Tenho 24 anos e sou apaixonado por tecnologia e pela web. Adoro criar interfaces bonitas e intuitivas que proporcionem uma ótima experiência para o usuário. Estou sempre buscando aprender coisas novas e me desafiar.
-
-Vamos nos conectar!
-📫 Email: [cassio.14@outlook.com.br]
-💼 LinkedIn: [linkedin.com/in/cassio-alencar-9bb46a263]
-Sinta-se à vontade para entrar em contato comigo! 😊
+Let's connect! 📫 Email: [cassio.14@outlook.com.br] 💼 LinkedIn: [linkedin.com/in/cassioalencardev]] Feel free to contact me 😊
